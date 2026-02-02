@@ -1,0 +1,38 @@
+.all-data-view {
+  padding: 1rem;
+  height: 100%;
+  overflow: auto;
+}
+
+.all-data-view h2 {
+  margin: 0 0 1rem 0;
+  font-size: 1.25rem;
+}
+
+.table-container {
+  overflow-x: auto;
+}
+
+.all-data-view table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+}
+
+.all-data-view th,
+.all-data-view td {
+  padding: 0.75rem;
+  text-align: left;
+  border-bottom: 1px solid #333;
+}
+
+.all-data-view th {
+  background: #2a2a2a;
+  font-weight: 600;
+  position: sticky;
+  top: 0;
+}
+
+.all-data-view tr:hover {
+  background: #2a2a2a;
+}

@@ -1,0 +1,128 @@
+{
+  "brands": [
+    {
+      "name": "Toyota",
+      "country": "Japan",
+      "founded": 1937,
+      "vehicles": [
+        {
+          "model": "Camry",
+          "year": 2024,
+          "price": 28000,
+          "type": "Sedan",
+          "horsepower": 203,
+          "mpg": 32
+        },
+        {
+          "model": "RAV4",
+          "year": 2024,
+          "price": 32000,
+          "type": "SUV",
+          "horsepower": 219,
+          "mpg": 30
+        },
+        {
+          "model": "Tacoma",
+          "year": 2024,
+          "price": 35000,
+          "type": "Truck",
+          "horsepower": 278,
+          "mpg": 23
+        }
+      ]
+    },
+    {
+      "name": "Ford",
+      "country": "USA",
+      "founded": 1903,
+      "vehicles": [
+        {
+          "model": "Mustang",
+          "year": 2024,
+          "price": 42000,
+          "type": "Sports",
+          "horsepower": 480,
+          "mpg": 22
+        },
+        {
+          "model": "F-150",
+          "year": 2024,
+          "price": 45000,
+          "type": "Truck",
+          "horsepower": 400,
+          "mpg": 20
+        },
+        {
+          "model": "Explorer",
+          "year": 2024,
+          "price": 38000,
+          "type": "SUV",
+          "horsepower": 300,
+          "mpg": 24
+        }
+      ]
+    },
+    {
+      "name": "BMW",
+      "country": "Germany",
+      "founded": 1916,
+      "vehicles": [
+        {
+          "model": "3 Series",
+          "year": 2024,
+          "price": 48000,
+          "type": "Sedan",
+          "horsepower": 255,
+          "mpg": 28
+        },
+        {
+          "model": "X5",
+          "year": 2024,
+          "price": 65000,
+          "type": "SUV",
+          "horsepower": 335,
+          "mpg": 23
+        },
+        {
+          "model": "M4",
+          "year": 2024,
+          "price": 82000,
+          "type": "Sports",
+          "horsepower": 503,
+          "mpg": 18
+        }
+      ]
+    },
+    {
+      "name": "Tesla",
+      "country": "USA",
+      "founded": 2003,
+      "vehicles": [
+        {
+          "model": "Model 3",
+          "year": 2024,
+          "price": 40000,
+          "type": "Sedan",
+          "horsepower": 283,
+          "mpg": 132
+        },
+        {
+          "model": "Model Y",
+          "year": 2024,
+          "price": 45000,
+          "type": "SUV",
+          "horsepower": 384,
+          "mpg": 122
+        },
+        {
+          "model": "Model S",
+          "year": 2024,
+          "price": 90000,
+          "type": "Sedan",
+          "horsepower": 670,
+          "mpg": 120
+        }
+      ]
+    }
+  ]
+}
